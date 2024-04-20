@@ -45,7 +45,7 @@ function Section1() {
         <div className="first-item">
           <div className="text">
             <h1 className="sh-1">
-              Welcome to the <span> Livemates </span> - Your Peer Live Learning & Discussing Hub!
+              Welcome to the <span> Mindswap </span> - Your Peer Live Learning & Discussing Hub!
             </h1>
             <p className="sp-1">
               At MindSwap, we're dedicated to providing users with a seamless and engaging
